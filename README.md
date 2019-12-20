@@ -1,4 +1,6 @@
-# nrf51822 Programming Jig
+#Work in Progress
+
+## nrf51822 Programming Jig
 
 Physical jig to hold nrf51822 iBeancon module, with pogo pins to connect to programming pads on module
 
