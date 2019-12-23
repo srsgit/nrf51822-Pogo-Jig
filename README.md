@@ -2,7 +2,7 @@
 
 ## nrf51822 Programming Jig
 
-Physical jig to hold nrf51822 iBeancon module, with pogo pins to connect to programming pads on module
+Physical jig to hold nrf51822 iBeacon module, with pogo pins to connect to programming pads on module
 
 Multiple layers of 3mm acrylic
 Each layer has holes for pogo pins and corner holes
